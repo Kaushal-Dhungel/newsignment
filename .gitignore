@@ -2,3 +2,4 @@ assignment
 media
 db.sqlite3
 frontend/jsconfig/node_modules
+.env
